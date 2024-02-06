@@ -1,0 +1,50 @@
+*{
+    font-family: monospace;
+    
+}
+
+html{
+
+}
+
+body{
+    font-size: 24px;
+    
+}
+
+main{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+button, textarea, input, select{
+
+}
+
+h1{
+    color: limegreen;
+}
+
+h2, h3{
+    color: blue;
+}
+
+.gray{
+    color: gray;
+}
+
+p{
+    color: purple;
+}
+
+p{
+    color: brown;
+}
+
+.highlight{
+    text-transform: uppercase;
+    background-color: gold;
+}
+
+#second{
+    font-style: italic ;
+}
